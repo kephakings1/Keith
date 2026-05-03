@@ -3,7 +3,7 @@
 <h1 align="center">KEITH-MD</h1>
 
 <h1 align="center">
-  this is a simple commonjs bot base using the latest whatsapp api provided with keithbaileys.
+  this is a simple commonjs bot base using the latest whatsapp api provided by keithbaileys.
 </h1>
 
 
